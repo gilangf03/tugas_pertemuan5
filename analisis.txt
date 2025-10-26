@@ -1,0 +1,11 @@
+ANALISA DARI METODE SINGLETHREAD DAN MULTITHREAD
+
+MULTITHREAD :
+1. Lebih cepat mengerjakan perintah client langsung tanpa menunggu giliran.
+2. Waktu pengerjaannya juga lebih cepat 
+
+SINGLETHREAD
+1. Untuk mengerjakan perintah dari client harus mengantri 
+2. Waktu pengerjaannya cukup lambat karena ngerjakannya 1 1
+
+
